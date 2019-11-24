@@ -26,7 +26,7 @@ SECRET_KEY = '(kw0#xw2d^g(ex!h=6_!mtg_#m*76(t*yoq9daj@nm9eca)gnu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://pydjangblog.herokuapp.com/']
+ALLOWED_HOSTS = ['pydjangblog.herokuapp.com']
 
 
 # Application definition
