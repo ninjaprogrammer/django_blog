@@ -5,7 +5,6 @@ botocore
 certifi
 chardet
 dj-database-url
-django-heroku
 django-storages
 docutils
 gunicorn
