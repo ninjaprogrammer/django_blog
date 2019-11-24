@@ -24,9 +24,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '(kw0#xw2d^g(ex!h=6_!mtg_#m*76(t*yoq9daj@nm9eca)gnu'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://pydjangblog.herokuapp.com/']
 
 
 # Application definition
